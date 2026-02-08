@@ -24,6 +24,46 @@ The goal of this repository is to build strong problem-solving fundamentals, rec
 ## 📁 Repository Structure
 Problems are organized by topic following the NeetCode roadmap:
 
+neetcode-150/ 
+
+├── 00-setup 
+
+├── 01-arrays-hashing 
+
+├── 02-two-pointers 
+
+├── 03-sliding-window 
+
+├── 04-stack 
+
+├── 05-binary-search
+
+├── 06-linked-list
+
+├── 07-trees
+
+├── 08-tries
+
+├── 09-heaps
+
+├── 10-backtracking
+
+├── 11-graphs
+
+├── 12-advanced-graphs
+
+├── 13-1d-dp
+
+├── 14-2d-dp
+
+├── 15-greedy
+
+├── 16-intervals
+
+├── 17-math-geometry
+
+├── 18-bit-manipulation
+
 
 
 Each solution includes:
